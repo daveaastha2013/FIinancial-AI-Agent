@@ -7,7 +7,6 @@ import openai
 import os
 from dotenv import load_dotenv
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
 
 web_search_agent = Agent(
     name="Web Search Agent",
