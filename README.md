@@ -1,4 +1,4 @@
-# FIinancial-AI-Agent
+# Financial-AI-Agent
 
 An intelligent multi-agent system that leverages real-time stock data and financial news to provide smart investment insights. Built using Phidata, integrated with Groq for ultra-fast AI inference, and powered by live data from YFinance and Google.
 
